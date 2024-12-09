@@ -1,5 +1,5 @@
 package com.example;
-import com.bosch.*;
+import com.example.*;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
